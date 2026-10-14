@@ -1,0 +1,12 @@
+[
+  {
+    "title": "PwVault",
+    "description": "A secure CLI password manager.",
+    "technologies": [
+      "Python",
+      "Argon2id",
+      "AES-256-GCM"
+    ],
+    "repository": "https://github.com/saliou198/PwVault"
+  }
+]
